@@ -2,17 +2,15 @@
 
 这里是 **浅冰** , 你也可以叫我 **Minorice**。是一个来自浙江的高中生。
 
-I'm **Minorice**, a senior high school student from ZheJiang, PRC.
+My name is **Minorice**, a senior high school student from ZheJiang, PRC.
 
 ### ✨ 现在正在做的事 | Projects currently working on
 
-- [MinoriceOwO/DeltaClass](https://github.com/MinoriceOwO/DeltaClass) (Private currently)
+- [Minoricew/DeltaClass](https://github.com/Minoricew/DeltaClass) (Private currently)
 
-  一个基于 Electron 的班级数据中心化和教学辅助应用。
+  Your in-class HUD.
 
-  A cross-generation and open-sourced class data centralization & education assisting platform built with electron.
-
-- [MinoriceOwO/genshin-senior-high](https://github.com/MinoriceOwO/genshin-senior-high)
+- [Minoricew/genshin-senior-high](https://github.com/Minoricew/genshin-senior-high)
 
   只是一个~~普普通通~~的学校网站而已。
   
@@ -26,13 +24,14 @@ I'm **Minorice**, a senior high school student from ZheJiang, PRC.
 ### 🌱 现在正在学的事 | Things currently learning
 
 - Nuxt.JS 3
-- TypeScript
+- TS & ES
 - Kotlin (Maybe?)
+- C++
 
 ### ⌛ 一些统计信息 | Stats
 
-[![Minorice's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinoriceOwO)](https://github.com/MinoriceOwO)  
+[![Minorice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minoricew)](https://github.com/Minoricew)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinoriceOwO&hide=html)](https://github.com/MinoriceOwO)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoricew&hide=html)](https://github.com/Minoricew)  
 
-![alt](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinoriceOwO)
+![alt](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minoricew)
