@@ -6,7 +6,7 @@ My name is **Minorice**, a senior high school student from ZheJiang, PRC.
 
 ### ✨ 现在正在做的事 | Projects currently working on
 
-- [Minoricew/DeltaClass](https://github.com/Minoricew/DeltaClass) (Private currently)
+- [Minoricew/DeltaClass](https://github.com/Minoricew/DeltaClass)
 
   Your in-class HUD.
 
@@ -27,6 +27,8 @@ My name is **Minorice**, a senior high school student from ZheJiang, PRC.
 - TS & ES
 - Kotlin (Maybe?)
 - C++
+- Rust
+- Dart
 
 ### ⌛ 一些统计信息 | Stats
 
