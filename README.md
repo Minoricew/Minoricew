@@ -1,39 +1,36 @@
-## 你好呀 ~ =w= | Hi there 👋
+<h2 align="center">你好呀 ~ =w= | Hi there 👋</h2>
 
-这里是 **浅冰** , 你也可以叫我 **Minorice**。是一个来自浙江的高中生。
+<p align="center">这里是 <b>浅冰</b> , 你也可以叫我 <b>Minorice</b>。是一个来自浙江的高中生。</p>
 
-My name is **Minorice**, a senior high school student from ZheJiang, PRC.
+<p align="center">My name is <b>Minorice</b>, I'm a senior high school student from Zhe Jiang, PRC.</p>
 
 ### ✨ 现在正在做的事 | Projects currently working on
 
-- [Minoricew/DeltaClass](https://github.com/Minoricew/DeltaClass)
+- [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura)
 
-  Your in-class HUD.
+  下一代希沃管家注入式修改方案
 
-- [Minoricew/genshin-senior-high](https://github.com/Minoricew/genshin-senior-high)
-
-  只是一个~~普普通通~~的学校网站而已。
-  
-  Just a ~~simple~~ (REALLY) website for my school.
+- 坏了, 其他好几个项目都:
+> [!CAUTION]
+>
+> 开坑一时爽, 填坑火葬场
   
 - 嗯... 没有更多啦。
 
-  以后这里会的东西多起来的!
+  以后这里的东西会多起来的!
   
+### 📐 主要技术栈 | Tech stacks
 
-### 🌱 现在正在学的事 | Things currently learning
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-- Nuxt.JS 3
-- TS & ES
-- Kotlin (Maybe?)
-- C++
-- Rust
-- Dart
+### 🌱 现在正在学... | Currently learning
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=000000)&nbsp;![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)&nbsp;![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 💻 设备与环境 | Devices
+
+![](https://img.shields.io/badge/OnePlus_PGP_110_<_A14_>-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;![](https://img.shields.io/badge/MacBook_Pro_M4_MAX_%3C_MacOS_15.5_>-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)&nbsp;![](https://img.shields.io/badge/ASUS_TUF_GAMING_B760M_PLUS_<_Windows_10_22H2_>-0078D6?style=for-the-badge&logo=ros&logoColor=white)
 
 ### ⌛ 一些统计信息 | Stats
-
-[![Minorice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minoricew)](https://github.com/Minoricew)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoricew&hide=html)](https://github.com/Minoricew)  
 
 ![alt](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minoricew)
