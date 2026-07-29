@@ -6,18 +6,9 @@
 
 ### ✨ 现在正在做的事 | Projects currently working on
 
-- [HugoAura/Seewo-HugoAura](https://github.com/HugoAura/Seewo-HugoAura)
-
-  下一代希沃管家注入式修改方案
-
-- 坏了, 其他好几个项目都:
-> [!CAUTION]
->
-> 开坑一时爽, 填坑火葬场
-  
-- 嗯... 没有更多啦。
-
-  以后这里的东西会多起来的!
+```
+null
+```
   
 ### 📐 主要技术栈 | Tech stacks
 
